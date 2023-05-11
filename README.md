@@ -1,6 +1,6 @@
 
 <!--
-**FaridGulmammadov/FaridGulmammadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FaridBahramzada/FaridBahramzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div id="about-me">
-    <h3>Hey Duude. It's me Farid Gulmammadov. I'm a junior Front-End Developer who looking for a first and fresh opportunity. You can take a look at my portfolio projects. Also contact with me whenever you want through my social media accounts right above.</h3>
+    <h3>Hey Duude. It's me Farid  Bahramzada. I'm a junior Front-End Developer who looking for a first and fresh opportunity. You can take a look at my portfolio projects. Also contact with me whenever you want through my social media accounts right above.</h3>
   </div>
   <div id="activity">
     - 🔭 I’m currently working on - Probably <b>portfolio-projects</b> and <b>self-improvement</b>
